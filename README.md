@@ -24,12 +24,12 @@ h. Create CI/CD pipeline to deploy the code to PROD environment.
 # List of tools to be used.
 1. Azure Data Factory
 2. Azure Databricks
-3. Logic app
+3. Azure Logic app
 4. Pyspark, SQL, python , Spark SQL
-5. Automation RunBook
+5. Azure Automation RunBook
 6. Azure SQL Database/Synapse Analytics
 7. Azure Blob Storage
 8. Azure Datalake gen2
-9. PowerBI
+9. Microsoft PowerBI
 10. Azure Devops
 
