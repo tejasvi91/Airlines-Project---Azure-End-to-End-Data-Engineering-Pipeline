@@ -1,6 +1,10 @@
 # Airlines-Project---Azure-End-to-End-Data-Engineering-Pipeline
 Project showcasing azure data engineering skills as applicable to aviation datasets by leveraging Azure paltform and using data engineering resiurces like Databricks, ADF and others.
 
+# Project architecture
+<img width="725" height="724" alt="image" src="https://github.com/user-attachments/assets/6ccd2250-ae6b-4eaf-bc2c-18dd66f264c0" />
+
+
 # Process and requirements
 a. Load data from different source with differenrt type of data.
    1. Blob - excel , pdf.
